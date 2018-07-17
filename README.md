@@ -53,8 +53,8 @@ The below project involves the learning of building a convolutional deep neural 
 		jupyter notebook dog_app.ipynb
 	```
 
-This project was built on NVIDIA GTX960, if GPU is a limitation please use
-AWS for faster training and build.
+This project was built on NVIDIA GTX960, if GPU is a limitation please use an
+AWS EC2 instance.
 
 
 
